@@ -4,7 +4,7 @@ THE ONLY THING I DID WAS TAKE A SCRIPT THAT SOMEBODY GAVE ME IN ORDER TO CHECK A
 # Loadstring
 
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/RealLobs/Dex-V4/master/source'))()
+loadstring(game:GetObjects('rbxassetid://11651442577')[1].Source)()
 ```
 # Compatibility
 
