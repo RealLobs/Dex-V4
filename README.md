@@ -11,11 +11,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/RealLobs/Dex-V4/maste
 * Synapse X
 * Scriptware Windows (and maybe mac idk)
 * Krnl
-* Delta
-* Novaline
-* JJSploit (plz dont use that)
-* Chronos X
-* Any executor with WRD API, Oxygen API, maybe EasyExploits API
 
 # More info
 
