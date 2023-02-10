@@ -3,7 +3,8 @@ hello, I'm lobs. The person who published this script. I did not make them. But 
 
 # Loadstring
 ```lua
-Loadstring(game:HttpGet("https://raw.githubusercontent.com/RealLobs/Dex-V4/better-dex/nicenewdex.lua"))()```
+Loadstring(game:HttpGet("https://raw.githubusercontent.com/RealLobs/Dex-V4/better-dex/nicenewdex.lua"))()
+```
 
 # what
 ok
